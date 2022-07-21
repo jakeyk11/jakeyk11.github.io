@@ -1921,7 +1921,7 @@ input, select, textarea {
 	table {
 		width: 100%;
 		text-align: left;
-		font-size: 14pt
+		font-size: 13pt
 	}
 
 		table tbody tr:nth-child(2n+2) {
