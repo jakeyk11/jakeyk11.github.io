@@ -85,7 +85,7 @@ input, select, textarea {
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 16pt;
+		font-size: 20pt;
 		font-weight: 350;
 		line-height: 1.5em;
 		color: #404040;
@@ -1921,7 +1921,7 @@ input, select, textarea {
 	table {
 		width: 100%;
 		text-align: left;
-		font-size: 13pt
+		font-size: 14pt
 	}
 
 		table tbody tr:nth-child(2n+2) {
@@ -2284,7 +2284,7 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 16pt;
+				font-size: 22pt;
 			}
 
 		/* Header */
@@ -2405,7 +2405,7 @@ input, select, textarea {
 			}
 
 			body, input, textarea, select {
-				font-size: 14pt;
+				font-size: 12pt;
 			}
 
 			header br {
