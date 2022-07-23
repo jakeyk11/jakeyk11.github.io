@@ -85,7 +85,7 @@ input, select, textarea {
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 20pt;
+		font-size: 16pt;
 		font-weight: 350;
 		line-height: 1.5em;
 		color: #404040;
@@ -159,6 +159,11 @@ input, select, textarea {
 		font-weight: 300;
 		color: #666;
 	}
+
+	.skill_tag {
+	    margin-left: 15px;
+	    font-size: 12pt;
+    }
 
 	em, i {
 		font-style: italic;
@@ -2283,8 +2288,20 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 22pt;
+				font-size: 16pt;
 			}
+
+			th {
+		        font-size: 14pt
+		    }
+
+			td {
+		        font-size: 12pt
+		    }
+
+		    .skill_tag {
+	            font-size: 12pt;
+            }
 
 		/* Header */
 
@@ -2331,6 +2348,18 @@ input, select, textarea {
 			body, input, textarea, select {
 				font-size: 14pt;
 			}
+
+			th {
+		        font-size: 13pt
+		    }
+
+			td {
+		        font-size: 11pt
+		    }
+
+		    .skill_tag {
+	            font-size: 11pt;
+            }
 
 			.container {
 				padding: 0 2em 0 2em;
@@ -2399,12 +2428,24 @@ input, select, textarea {
 
 		/* Basic */
 
+			th {
+		        font-size: 13pt
+		    }
+
+			td {
+		        font-size: 10pt
+		    }
+
+		    .skill_tag {
+	            font-size: 11pt;
+            }
+
 			html, body {
 				overflow-x: hidden;
 			}
 
 			body, input, textarea, select {
-				font-size: 12pt;
+				font-size: 14pt;
 			}
 
 			header br {
@@ -2604,9 +2645,22 @@ input, select, textarea {
 				font-weight: 300;
 			}
 
+			th {
+		        font-size: 11pt
+		    }
+
+			td {
+		        font-size: 10pt
+		    }
+
+		    .skill_tag {
+	            font-size: 9pt;
+            }
+
 			.container {
 				padding: 0 15px 0 15px;
 			}
+
 
 		/* List */
 
